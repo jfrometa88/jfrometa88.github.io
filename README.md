@@ -1,0 +1,81 @@
+# Ingeniero Industrial
+
+- [Email: jfrometa99@gmail.com](jfrometa99@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jorge-israel-frometa-moya-498155187/)
+- [Credly](https://www.credly.com/users/jorge-frometa)
+- [Google Scholar](https://scholar.google.com/citations?user=FYjO18MAAAAJ&hl=es&oi=ao)
+
+
+#### Habilidades técnicas: 
+
+- Lenguajes de programación: Python (Análisis de Datos, Optimización), SQL.
+- Optimización matemática: Programación lineal, entera mixta y cuadrática mixta, programación dinámica, teoría de grafos.
+- Análisis de datos: Visualización, procesamiento y modelado.
+- Algoritmos de aprendizaje automático.
+- Control estadístico de procesos industriales.
+- Gestión logística de cadenas de suministros y ruteo vehicular.
+
+## Educación		        		
+- Ingeniería Industrial | Universidad de Holguín, Cuba (_Diciembre 2012_)
+
+## Experiencia laboral
+**Profesor y Consultor empresarial @ Universidad de Oriente, Cuba (_Octubre 2015_ - _Abril 2024_)**
+- Imparticion de asignaturas especializadas en Estadística, Simulación e Investigación de Operaciones para estudiantes de Ingeniería Industrial.
+- Colaboración Interdisciplinaria: Trabajo en equipo con especialistas de diversas disciplinas científicas como las ciencias económicas y las ciencias de la información.
+- Participación en proyectos de investigación enfocados en la optimización de procesos de producción y logística como:
+  * Optimización de la planificación de la producción de la industria pesquera mediante programación lineal, generando un aumento de 900,000 pesos en utilidades.
+  * Optimización de la distribución logística de materias primas en la industria tabacalera mediante programación entera cuadrática mixta.
+
+**Especialista de gestión de operaciones logística @ Corporación Cubapetróleo, Cuba (_Febrero 2013_ - _Abril 2024_)**
+- Análisis de Datos: Aplicación de herramientas de estadística y simulación para evaluar y optimizar las cadenas de suministro y flujos logísticos.
+- Optimización del sistema de distribución de gas licuado del petróleo en Santiago de Cuba mediante programación lineal entera mixta y metodos heurísticos, con un aumento de la eficiencia del 63%.
+- Colaboración Interdisciplinaria: Trabajo en equipo con áreas clave como transporte, compras e informática para garantizar el cumplimiento de los objetivos organizacionales.
+
+## Certificaciones
+
+- Certificado Profesional de Análisis de Datos – Google (Bootcamp, España)
+- Certificado Profesional de Ciencia de Datos – IBM (Bootcamp, España)
+
+
+## Proyectos en Github
+
+### Optimización de la Planificación de Producción con Programación Lineal
+- [Link de Publicación científica](https://dialnet.unirioja.es/servlet/articulo?codigo=9472260)
+- [Link del repositorio en Github](https://github.com/jfrometa88/Optimizaci-n-de-la-Planificaci-n-de-Producci-n-con-Programaci-n-Lineal)
+
+Contiene una implementación en **Python** del modelo de programación lineal propuesto en el artículo científico "Planificación productiva del procesamiento pesquero en Santiago de Cuba mediante programación lineal". Este proyecto tiene como objetivo optimizar la planificación de la producción en un entorno industrial, maximizando las utilidades operativas mientras se cumplen restricciones productivas, económicas y sociales.
+
+![Articulo](images/articulo.png)
+
+### Análisis de Vulnerabilidad Económica y su relación con indicadores de disponibilidad de bicicletas como servicio público y nivel de ruido en Valencia
+[Link del repositorio en Github](https://github.com/jfrometa88/Analisis-de-datos-abiertos-valencia)
+
+Analiza la vulnerabilidad económica en distintas zonas de Valencia y su posible relación con indicadores como el nivel medio de ruido y la disponibilidad de bicicletas de transporte público. Se emplean técnicas de estadística descriptiva, visualización de datos y pruebas de hipótesis como ANOVA para investigar patrones y diferencias entre grupos.
+
+![Image](images/Nivel_ruido_geolocal.png)
+
+### Applied Data Science Capstone - SpaceX Launch Analysis
+[Link del repositorio en Github](https://github.com/jfrometa88/Applied-Data-Science-Capstone)
+
+Es parte del bootcamp de ciencia de datos de IBM y tiene como objetivo analizar los datos de lanzamientos de SpaceX para responder preguntas clave como:
+- ¿Qué factores afectan el éxito de los lanzamientos de SpaceX?
+- ¿Es posible predecir la probabilidad de un aterrizaje exitoso de la primera etapa utilizando modelos predictivos?
+El análisis abarca desde la recolección de datos hasta la creación de modelos predictivos, incluyendo herramientas interactivas y visualizaciones dinámicas.
+
+![Image1](images/cohete.jpg)
+
+### Proyecto Final Programa de inteligencia artificial IBM - Análisis de Fraude en Tarjetas de Crédito
+[Link del repositorio en Github](https://github.com/jfrometa88/Proyecto-Final-IBM-AI)
+
+Este proyecto es parte del Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial de IBM. Utiliza el dataset de Kaggle: Credit Card Fraud Detection para identificar transacciones fraudulentas mediante técnicas de Machine Learning.
+
+![Image2](images/Results_XGBooster.png)
+
+## Publicaciones 
+1. Frómeta-Moya, J. I., & Labrada-Díaz, T. (2023). Planificación productiva del procesamiento pesquero en Santiago de Cuba mediante programación lineal. Ingeniería Industrial, 44(1), 96-109.
+2. Frómeta-Moya, J. I., Ferrales-Arias, Y., & Pérez-Falcón, J. A. (2018). Procedimiento para el diagnóstico del sistema de producción en una empresa de materiales de construcción. Procedure for the diagnosis of the system production at a building materials company. Anuario Facultad de Ciencias Económicas y Empresariales, 29-44.
+3. Frómeta Moya, J. I., & Pérez Campos, J. D. J. (2021). Modelo heurístico híbrido para el ruteo vehicular y manejo de inventario en una entidad comercializadora de combustibles. Revista de Métodos Cuantitativos para la Economía y la Empresa, 31, 363-383.
+4. Moya, J. I. F., Velázquez, D. R. T., Mastrapa, L. H., & León, Y. O. L. (2020). Integrated mathematical model based on a heuristic method for loading and routing of vehicles: application in a tobacco company. Independent Journal of Management & Production, 11(6), 2091-2111.
+5. Frómeta-Moya, J. I., & Marrero-Delgado, F. (2022). Ruteo vehicular con inventario y sistemas de apoyo para decisiones: una revisión con análisis bibliométrico. Santiago, (Especial), 234.
+
+
