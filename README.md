@@ -1,17 +1,27 @@
-# Ingeniero Industrial
+# Ingeniero Industrial especializado en Análisis de Datos y Optimización Matemática
 
-- [Email: jfrometa99@gmail.com](jfrometa99@gmail.com)
+- [Email: jfrometa99@gmail.com](mailto:jfrometa99@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jorge-israel-frometa-moya-498155187/)
 - [Credly](https://www.credly.com/users/jorge-frometa)
 - [Google Scholar](https://scholar.google.com/citations?user=FYjO18MAAAAJ&hl=es&oi=ao)
 
+## Resumen
+Soy un ingeniero industrial con más de 10 años de experiencia combinando conocimientos en optimización matemática, análisis de datos y machine learning para resolver problemas logísticos y de producción en entornos industriales.
 
-#### Habilidades técnicas: 
+## Tabla de Contenidos
+- [Habilidades Técnicas](#Habilidades-técnicas)
+- [Educación](#Educación)
+- [Experiencia Laboral](#Experiencia-laboral)
+- [Certificaciones](#Certificaciones)
+- [Proyectos en GitHub](#Proyectos-en-Github)
+- [Publicaciones](#Publicaciones)
 
-- Lenguajes de programación: Python (Análisis de Datos, Optimización), SQL.
-- Optimización matemática: Programación lineal, entera mixta y cuadrática mixta, programación dinámica, teoría de grafos.
-- Análisis de datos: Visualización, procesamiento y modelado.
-- Algoritmos de aprendizaje automático.
+## Habilidades técnicas: 
+
+- Lenguajes de programación: Python para análisis de datos y optimización (Pandas, NumPy Scikit-learn) y SQL.
+- Optimización matemática: Programación lineal, entera mixta y cuadrática mixta, programación dinámica, teoría de grafos (gurobipy, pyomo).
+- Análisis de datos: Visualización, procesamiento y modelado (Matplotlib, Seaborn, Plotly, Folium).
+- Algoritmos de aprendizaje automático en python (Scikit-learn).
 - Control estadístico de procesos industriales.
 - Gestión logística de cadenas de suministros y ruteo vehicular.
 
