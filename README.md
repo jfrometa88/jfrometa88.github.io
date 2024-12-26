@@ -1,7 +1,7 @@
 # Ingeniero Industrial especializado en Análisis de Datos y Optimización Matemática
 
 - [Email: jfrometa99@gmail.com](mailto:jfrometa99@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/jorge-israel-frometa-moya-498155187/)
+- [LinkedIn](https://www.linkedin.com/in/jorge-israel-frometa-moya/)
 - [Credly](https://www.credly.com/users/jorge-frometa)
 - [Google Scholar](https://scholar.google.com/citations?user=FYjO18MAAAAJ&hl=es&oi=ao)
 
@@ -20,7 +20,7 @@ Soy un ingeniero industrial con más de 10 años de experiencia combinando conoc
 
 - Lenguajes de programación: Python para análisis de datos y optimización (Pandas, NumPy Scikit-learn) y SQL.
 - Optimización matemática: Programación lineal, entera mixta y cuadrática mixta, programación dinámica, teoría de grafos (gurobipy, pyomo).
-- Análisis de datos: Visualización, procesamiento y modelado (Matplotlib, Seaborn, Plotly, Folium).
+- Análisis de datos: Visualización, procesamiento y modelado (Matplotlib, Seaborn, Plotly, Folium, Power BI, Excel).
 - Algoritmos de aprendizaje automático en python (Scikit-learn).
 - Control estadístico de procesos industriales.
 - Gestión logística de cadenas de suministros y ruteo vehicular.
@@ -45,6 +45,7 @@ Soy un ingeniero industrial con más de 10 años de experiencia combinando conoc
 
 - Certificado Profesional de Análisis de Datos – Google (Bootcamp, España)
 - Certificado Profesional de Ciencia de Datos – IBM (Bootcamp, España)
+- Curso de Power BI de IBM-Datahack (Bootcamp, España)
 
 
 ## Proyectos en Github
