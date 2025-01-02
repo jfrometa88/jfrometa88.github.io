@@ -50,6 +50,14 @@ Soy un ingeniero industrial con más de 10 años de experiencia combinando conoc
 
 ## Proyectos en Github
 
+### Ruteo vehicular y manejo de inventario con programación matemática
+- [Link de Publicación científica](https://www.upo.es/revistas/index.php/RevMetCuant/article/view/3574/5108)
+- [Link del repositorio en Github](https://github.com/jfrometa88/Ruteo-vehicular-con-programacion-matematica)
+
+Contiene una implementación en **Python** del del modelo matemático propuesto en el artículo científico "Modelo heurístico híbrido para el ruteo vehicular y manejo de inventario en una entidad comercializadora de combustibles". Este proyecto tiene como objetivo optimizar la planificación de la de combustibles por etapas en una situación dada en una entidad comercializadora de combustibles de Santiago de Cuba, maximizando en cada etapa el valor del indicador tráfico de mercancías (un ratio que al ser maximizado permite maximizar la cantidad de mercancía distribuida mientras se minimiza la distancia recorrida) mientras se cumplen restricciones impuestas por el entorno en el que se realiza la distribución.
+
+![Articulo](images/Algoritmo.PNG)
+
 ### Optimización de la Planificación de Producción con Programación Lineal
 - [Link de Publicación científica](https://dialnet.unirioja.es/servlet/articulo?codigo=9472260)
 - [Link del repositorio en Github](https://github.com/jfrometa88/Optimizaci-n-de-la-Planificaci-n-de-Producci-n-con-Programaci-n-Lineal)
