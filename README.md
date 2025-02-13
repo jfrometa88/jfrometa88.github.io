@@ -6,7 +6,7 @@
 - [Google Scholar](https://scholar.google.com/citations?user=FYjO18MAAAAJ&hl=es&oi=ao)
 
 ## Resumen
-Soy un ingeniero industrial con más de 10 años de experiencia combinando conocimientos en optimización matemática, análisis de datos y machine learning para resolver problemas logísticos y de producción en entornos industriales.
+Ingeniero Industrial con más de 10 años de experiencia en optimización de procesos logísticos y productivos, análisis de datos y transformación digital. A lo largo de mi carrera, he utilizado herramientas avanzadas como Python, SQL y modelos matemáticos para optimizar cadenas de suministro y productividad operativa en diversas industrias. Actualmente, estoy profundizando en Cloud Computing, Inteligencia Artificial y Machine Learning, como parte del programa AWS re/Start, para potenciar la toma de decisiones y la automatización de procesos en entornos empresariales.
 
 ## Tabla de Contenidos
 - [Habilidades Técnicas](#Habilidades-técnicas)
@@ -24,6 +24,7 @@ Soy un ingeniero industrial con más de 10 años de experiencia combinando conoc
 - Algoritmos de aprendizaje automático en python (Scikit-learn).
 - Control estadístico de procesos industriales.
 - Gestión logística de cadenas de suministros y ruteo vehicular.
+- AWS Cloud Computing (EC2, S3, Lambda)
 
 ## Educación		        		
 - Ingeniería Industrial | Universidad de Holguín, Cuba (_Diciembre 2012_)
@@ -46,9 +47,17 @@ Soy un ingeniero industrial con más de 10 años de experiencia combinando conoc
 - Certificado Profesional de Análisis de Datos – Google (Bootcamp, España)
 - Certificado Profesional de Ciencia de Datos – IBM (Bootcamp, España)
 - Curso de Power BI de IBM-Datahack (Bootcamp, España)
-
+- Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial de IBM (Bootcamp, España)
 
 ## Proyectos en Github
+
+### Optimización de Producción con programación lineal usando Python, Flask, Gurobi, matplotlib y AWS
+- [Artículo en Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=9472260).
+- [Link del repositorio en Github](https://github.com/jfrometa88/aws-flask-gurobi-pl)
+
+Este proyecto es parte de una ruta de aprendizaje con enfoque práctico de servicios de **Amazon Web Service (AWS)**, diseñado para principiantes en **Cloud Computing**. El mismo se concibió y probó en un Sandbox de **AWS** diseñado para el aprendizaje y por tanto con restricciones en su uso. Su objetivo es proporcionar una experiencia práctica en el uso de **AWS Management Console y AWS Command Line Interface (CLI)**, con servicios de Cloud Computing como **AWS EC2, S3 y otros servicios asociados como VPC, IAM**. Combinando estos con una implmentación de una aplicación web usando **Python** con **Python SDK para AWS, Gurobi, Matplotlib y Flask** para introducir datos, resolver y acceder a los resultados de un modelo de **optimización matemática de programación lineal** basado en un caso de estudio real (accediendo vía web por Internet).
+
+![Arquitectura](images/Arch_AWS.png)
 
 ### Ruteo vehicular y manejo de inventario con programación matemática
 - [Link de Publicación científica](https://www.upo.es/revistas/index.php/RevMetCuant/article/view/3574/5108)
