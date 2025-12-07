@@ -65,6 +65,8 @@ Ingeniero Industrial con más de 10 años de experiencia en optimización de pro
 ### Warehouse Analytics Dashboard with AI Agents
 ![Demostración del Dashboard de Análisis de Almacén](images/dashboard.gif)
 
+- [Link del repositorio en Github](https://github.com/jfrometa88/capstone_project_new)
+
 Panel de análisis integral de gestión de almacén construido con **Plotly Dash**, mejorado con agentes de **IA** especializados impulsados por Google Gemini. Este proyecto proporciona insights (conocimientos) inteligentes sobre los niveles de servicio al cliente, la previsión de la demanda de materiales y la gestión de inventario.
 
 
