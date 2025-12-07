@@ -18,6 +18,15 @@ Ingeniero Industrial con más de 10 años de experiencia en optimización de pro
 
 ## Habilidades técnicas: 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs/RAG-4CAF50?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 - Lenguajes de programación: Python para análisis de datos y optimización (Pandas, NumPy, Scikit-learn) y SQL.
 - Optimización matemática: Programación lineal, entera mixta y cuadrática mixta, programación dinámica, teoría de grafos (gurobipy, pyomo).
 - Análisis de datos: Visualización, procesamiento y modelado (Matplotlib, Seaborn, Plotly, Power BI, Excel).
@@ -54,7 +63,7 @@ Ingeniero Industrial con más de 10 años de experiencia en optimización de pro
 ## Proyectos en Github
 
 ### Warehouse Analytics Dashboard with AI Agents
-![Demostración del Dashboard de Análisis de Almacén](assets/dashboard.gif)
+![Demostración del Dashboard de Análisis de Almacén](images/dashboard.gif)
 
 Panel de análisis integral de gestión de almacén construido con **Plotly Dash**, mejorado con agentes de **IA** especializados impulsados por Google Gemini. Este proyecto proporciona insights (conocimientos) inteligentes sobre los niveles de servicio al cliente, la previsión de la demanda de materiales y la gestión de inventario.
 
