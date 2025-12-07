@@ -18,20 +18,21 @@ Ingeniero Industrial con más de 10 años de experiencia en optimización de pro
 
 ## Habilidades técnicas: 
 
-- Lenguajes de programación: Python para análisis de datos y optimización (Pandas, NumPy Scikit-learn) y SQL.
+- Lenguajes de programación: Python para análisis de datos y optimización (Pandas, NumPy, Scikit-learn) y SQL.
 - Optimización matemática: Programación lineal, entera mixta y cuadrática mixta, programación dinámica, teoría de grafos (gurobipy, pyomo).
-- Análisis de datos: Visualización, procesamiento y modelado (Matplotlib, Seaborn, Plotly, Folium, Power BI, Excel).
+- Análisis de datos: Visualización, procesamiento y modelado (Matplotlib, Seaborn, Plotly, Power BI, Excel).
 - Algoritmos de aprendizaje automático en python (Scikit-learn).
 - Control estadístico de procesos industriales.
 - Gestión logística de cadenas de suministros y ruteo vehicular.
-- AWS Cloud Computing (EC2, S3, Lambda)
+- AWS Cloud Computing (EC2, S3, Lambda).
+- Orquestación de sistemas potenciados con Inteligencia Artificial (Langgraph, Google ADK, Pydantic AI).
 
 ## Educación		        		
 - Ingeniería Industrial | Universidad de Holguín, Cuba (_Diciembre 2012_)
 
 ## Experiencia laboral
 **Profesor y Consultor empresarial @ Universidad de Oriente, Cuba (_Octubre 2015_ - _Abril 2024_)**
-- Imparticion de asignaturas especializadas en Estadística, Simulación e Investigación de Operaciones para estudiantes de Ingeniería Industrial.
+- Impartición de asignaturas especializadas en Estadística, Simulación e Investigación de Operaciones para estudiantes de Ingeniería Industrial.
 - Colaboración Interdisciplinaria: Trabajo en equipo con especialistas de diversas disciplinas científicas como las ciencias económicas y las ciencias de la información.
 - Participación en proyectos de investigación enfocados en la optimización de procesos de producción y logística como:
   * Optimización de la planificación de la producción de la industria pesquera mediante programación lineal, generando un aumento de 900,000 pesos en utilidades.
@@ -48,8 +49,15 @@ Ingeniero Industrial con más de 10 años de experiencia en optimización de pro
 - Certificado Profesional de Ciencia de Datos – IBM (Bootcamp, España)
 - Curso de Power BI de IBM-Datahack (Bootcamp, España)
 - Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial de IBM (Bootcamp, España)
+- AWS Certified Cloud Practitioner
 
 ## Proyectos en Github
+
+### Warehouse Analytics Dashboard with AI Agents
+![Demostración del Dashboard de Análisis de Almacén](assets/dashboard.gif)
+
+Panel de análisis integral de gestión de almacén construido con **Plotly Dash**, mejorado con agentes de **IA** especializados impulsados por Google Gemini. Este proyecto proporciona insights (conocimientos) inteligentes sobre los niveles de servicio al cliente, la previsión de la demanda de materiales y la gestión de inventario.
+
 
 ### Optimización de Producción con programación lineal usando Python, Flask, Gurobi, matplotlib y AWS
 - [Artículo en Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=9472260).
