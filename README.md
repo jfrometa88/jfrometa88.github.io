@@ -94,30 +94,6 @@ Contiene una implementación en **Python** del modelo de programación lineal pr
 
 ![Articulo](images/articulo.png)
 
-### Análisis de Vulnerabilidad Económica y su relación con indicadores de disponibilidad de bicicletas como servicio público y nivel de ruido en Valencia
-[Link del repositorio en Github](https://github.com/jfrometa88/Analisis-de-datos-abiertos-valencia)
-
-Analiza la vulnerabilidad económica en distintas zonas de Valencia y su posible relación con indicadores como el nivel medio de ruido y la disponibilidad de bicicletas de transporte público. Se emplean técnicas de estadística descriptiva, visualización de datos y pruebas de hipótesis como ANOVA para investigar patrones y diferencias entre grupos.
-
-![Image](images/Nivel_ruido_geolocal.png)
-
-### Applied Data Science Capstone - SpaceX Launch Analysis
-[Link del repositorio en Github](https://github.com/jfrometa88/Applied-Data-Science-Capstone)
-
-Es parte del bootcamp de ciencia de datos de IBM y tiene como objetivo analizar los datos de lanzamientos de SpaceX para responder preguntas clave como:
-- ¿Qué factores afectan el éxito de los lanzamientos de SpaceX?
-- ¿Es posible predecir la probabilidad de un aterrizaje exitoso de la primera etapa utilizando modelos predictivos?
-El análisis abarca desde la recolección de datos hasta la creación de modelos predictivos, incluyendo herramientas interactivas y visualizaciones dinámicas.
-
-![Image1](images/cohete.jpg)
-
-### Proyecto Final Programa de inteligencia artificial IBM - Análisis de Fraude en Tarjetas de Crédito
-[Link del repositorio en Github](https://github.com/jfrometa88/Proyecto-Final-IBM-AI)
-
-Este proyecto es parte del Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial de IBM. Utiliza el dataset de Kaggle: Credit Card Fraud Detection para identificar transacciones fraudulentas mediante técnicas de Machine Learning.
-
-![Image2](images/Results_XGBooster.png)
-
 ## Publicaciones 
 1. Frómeta-Moya, J. I., & Labrada-Díaz, T. (2023). Planificación productiva del procesamiento pesquero en Santiago de Cuba mediante programación lineal. Ingeniería Industrial, 44(1), 96-109.
 2. Frómeta-Moya, J. I., Ferrales-Arias, Y., & Pérez-Falcón, J. A. (2018). Procedimiento para el diagnóstico del sistema de producción en una empresa de materiales de construcción. Procedure for the diagnosis of the system production at a building materials company. Anuario Facultad de Ciencias Económicas y Empresariales, 29-44.
